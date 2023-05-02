@@ -5,7 +5,7 @@ permalink: /
 ---
 #名前　
 　佐野　晶哉
-！[image]
+![image](../assets/images/EMTJBUGJXNJ3JGI5T45APXEIU4.avif)
 
 
 
