@@ -1,9 +1,11 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "佐野　晶哉（Aぇ！　group）"
+author: default ayaka
 permalink: /
 ---
-
+#名前　
+　佐野　晶哉
+！[image](https://www.sanspo.com/article/20220414-GCHY2WJ6MRJKTM3VVLA4B4WA6Y/)
 
 
 
@@ -13,7 +15,7 @@ permalink: /
 
 以下テンプレート
 
-# 見出し1 
+# 
 ## 見出し2
 ### 見出し3
 #### 見出し4
