@@ -51,4 +51,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](../assets/images/EMTJBUGJXNJ3JGI5T45APXEIU4.avif)
+![image](../assets/images/EMTJBUGJXNJ3JGI5T45APXEIU4.jpeg)
