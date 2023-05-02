@@ -5,7 +5,7 @@ permalink: /
 ---
 #名前　
 　佐野　晶哉
-![image](../assets/images/EMTJBUGJXNJ3JGI5T45APXEIU4.avif)
+![image](../assets/images/EMTJBUGJXNJ3JGI5T45APXEIU4.jpeg)
 ##誕生日
 ２００２年３月１３日
 ###メンバーカラー
