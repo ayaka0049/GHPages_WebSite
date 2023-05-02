@@ -5,7 +5,7 @@ permalink: /
 ---
 #名前　
 　佐野　晶哉
-！[image](https://www.sanspo.com/article/20220414-GCHY2WJ6MRJKTM3VVLA4B4WA6Y/)
+！[image]
 
 
 
@@ -48,4 +48,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](../assets/images/logo-150.png)
+![image](../assets/images/EMTJBUGJXNJ3JGI5T45APXEIU4.avif)
